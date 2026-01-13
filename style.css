@@ -1,5 +1,7 @@
 body {
-    background: rgb(8, 8, 8);
+    background-image: url(https://images.steamusercontent.com/ugc/791991374973253058/E3360BCEB1F1EC15FAC2B598B0E3169CF0AB0674/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    background-repeat: no-repeat;
+    background-size: 1400px;
     color: #9c0606;
     padding: 10px;
     font-family: Arial, sans-serif;
