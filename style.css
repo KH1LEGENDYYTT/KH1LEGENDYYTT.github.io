@@ -14,7 +14,8 @@ body {
 
 /* navigation menu */
 nav {
-    background: #b39606;
+    background-image: url(https://images.steamusercontent.com/ugc/865115034096997606/702A4514540F4AFDFD0B6780F29A4F8FC7250067/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    background-repeat;
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -43,12 +44,14 @@ h1 {
 
 a {
     text-decoration: none;
-    color: hsl(232, 100%, 15%);
+    color: hsl(0, 0%, 97%);
 }
 
 /* main container area beneath menu */
 main {
-    background: rgb(196, 120, 7);
+    background-image: url(https://media.tenor.com/xaKQDRNfaTEAAAAM/ghost-cod-cod-ghost.gif);
+    background-repeat: no-repeat;
+    background-size: 800px;
     display: flex;
     margin-top: 20px;
 }
